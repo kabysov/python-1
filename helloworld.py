@@ -5,3 +5,7 @@ while True:
         print("You are eligible to vote")
     else:
         print("Please come back in {} years".format(18 - age))
+
+
+
+        print(test)
