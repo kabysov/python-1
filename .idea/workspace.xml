@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d632cae6-e34a-4022-9ad0-f491a6402b8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/address.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/age.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ip.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kiosk.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyramid.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonfile1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomnumbergenerator.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helloworld.py" afterPath="$PROJECT_DIR$/helloworld.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +28,8 @@
       <file leaf-file-name="kiosk.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kiosk.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+            <state relative-caret-position="838">
+              <caret line="58" column="13" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="58" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -583,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502566954163</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Python project- week2">
+      <created>1503182977047</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1503182977047</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -625,7 +623,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing IntelliJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing IntelliJ" />
+    <MESSAGE value="Python project- week2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python project- week2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -757,8 +756,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kiosk.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        <state relative-caret-position="838">
+          <caret line="58" column="13" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="58" selection-end-column="13" />
           <folding />
         </state>
       </provider>
